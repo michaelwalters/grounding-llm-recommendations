@@ -50,4 +50,6 @@ See `CITATION.cff`.
 
 ## License
 
-Text, packets and data are released under CC BY 4.0. Any scripts added later are released under the MIT License.
+Copyright (c) 2026 Michael Walters. All rights reserved.
+
+This repository is shared so that readers can check the claims on the poster. It carries no open license. No part of it may be copied, modified, redistributed or reused without written permission from the author. Citing the work is welcome (see `CITATION.cff`).
