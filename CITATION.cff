@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Grounding LLM Recommendations in Evidence: A Decision Architecture Approach"
+authors:
+  - family-names: Walters
+    given-names: Michael
+    affiliation: "MIT System Design and Management"
+date-released: 2026-10-15
